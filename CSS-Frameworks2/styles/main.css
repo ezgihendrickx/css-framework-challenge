@@ -1,3 +1,35 @@
+
+* {
+    font-family: 'Red Hat Text', sans-serif;
+}
 .container {
-    background-color: #E4E4E4;
+    background-color: #E3EDF3;
+}
+
+.btn-primary {
+    color: black;
+    background-color: white;
+    border: none;
+
+}
+
+.btn-primary:hover {
+    background-color:#4AAAF5;
+    border-radius: 40px;
+}
+.btn-primary:link, .btn-primary:active, .btn-primary:visited, .btn-primary:focus {
+    border-radius: 40px;
+}
+
+
+h5 {
+    font-weight: bold;
+    font-size: large;
+}
+
+p {
+    font-size: small;
+}
+.card:hover{
+   background-color: lightcyan;
 }
