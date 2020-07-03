@@ -12,4 +12,4 @@ Find a similar font on https://fonts.google.com/ (it's ok if it's not exactly th
 First, try to get as close as possible without writing any CSS. Start from the general structure (a responsive grid with rectangular "cards" inside), then proceed with the inner structure of each card.
 Once there isn't anything more you can "extract" from the framework of your choice, you can start adding custom CSS
 Deploy on the system of your choice (GitHub Pages or Netlify)
-### Link: https://ezgihendrickx.github.io/css-framework-challenge/index2
+### Link: https://ezgihendrickx.github.io/css-framework-challenge/CSS-Frameworks2/index2
